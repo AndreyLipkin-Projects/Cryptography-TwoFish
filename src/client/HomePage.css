@@ -1,0 +1,18 @@
+
+.encrypt_label{
+	-fx-text-fill: rgba(28.0,121.0,226.0,0.7);
+	-fx-font-size: 26;
+}
+
+.file_uploader_btn {
+	-fx-background-color: rgba(28.0,121.0,226.0,0.7); 
+	-fx-text-fill: white;
+}
+
+
+.file_uploader_btn:hover {
+	-fx-background-color: rgba(28.0,121.0,226.0.8); 
+	-fx-text-fill: white;
+}
+
+
